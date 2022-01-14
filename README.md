@@ -1,6 +1,6 @@
 # EyupCanTurgut Hafta1
 
-Hayvan barinagi icin bir Web Api olusturuldu.
+Hayvan barinagi icin 'Animal' adi altinda bir Web Api olusturuldu.
  
 # 1. Hafta Ödev
 Restful Api Geliştirin
