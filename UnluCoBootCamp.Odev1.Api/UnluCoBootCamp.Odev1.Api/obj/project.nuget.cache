@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6vo6aF4PUxh1J59vWF7Vk8bhzEMvTyQiBF1NxCWc1Hh/fAVVicok5N0ocj/DUT3QsqZKRMSbU5aLDWw0tsl4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EyupCan\\source\\repos\\UnluCoBootCamp.Odev1.Api\\UnluCoBootCamp.Odev1.Api\\UnluCoBootCamp.Odev1.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EyupCan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\EyupCan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EyupCan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\EyupCan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\EyupCan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\EyupCan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
